@@ -1,4 +1,4 @@
 Akbank Python Bootcamp:Yeni Nesil Proje Kampı
 
 ***
-Kütüphane Yönetim Sistemi
+Kitapların yönetimi için kullanılan basit bir kütüphane sınıfıdır.
